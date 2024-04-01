@@ -1,0 +1,34 @@
+@media screen and (max-width: 1200px) {
+    form.main__card {
+        padding: 20px 10px;
+    }
+    div.main__area-layout {
+        flex-direction: column;
+    }
+    div.main__area-wrapper {
+        width: 80%;
+    }
+    div.main__result {
+        margin-top: 20px;
+        width: 80%;
+        flex-direction: column;
+    }
+    div.main__result-left{
+        width: 80%;
+        font-size: 2rem;
+    }
+    div.main__result-right{
+        width: 80%;
+        font-size: 1.5rem;
+    }
+    div.main__height-wrapper {
+        margin-top: 20px;
+    }
+    h1.main__header {
+        font-size: 2.5rem;
+    }
+    button.button {
+        margin-top: 20px;
+    }
+
+}
